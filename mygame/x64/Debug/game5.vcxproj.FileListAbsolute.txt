@@ -1,0 +1,2 @@
+E:\Docs\TCA\C\C++\mygame\x64\Debug\game5.exe
+E:\Docs\TCA\C\C++\mygame\x64\Debug\game5.pdb

@@ -1,0 +1,4 @@
+﻿  menu.cpp
+E:\Docs\TCA\C\C++\mygame\packages\DxLib.vc140.3.2.1.3\build\native\include\DxFunctionWin.h(266,1): warning C4010: single-line comment contains line-continuation character
+E:\Docs\TCA\C\C++\mygame\menu.cpp(103): warning C4715: 'menu_disp': not all control paths return a value
+  game5.vcxproj -> E:\Docs\TCA\C\C++\mygame\x64\Debug\game5.exe
